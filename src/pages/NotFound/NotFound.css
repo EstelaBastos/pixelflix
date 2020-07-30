@@ -1,0 +1,18 @@
+.NotFound {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.NotFound h1 {
+    font-size: 20vh;
+    margin: 0;
+}
+
+.NotFound h2 {
+    font-size: 8vh;
+    margin: 0;
+}
