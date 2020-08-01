@@ -1,15 +1,17 @@
 import React from 'react';
-import BannerMain from '../../components/BannerMain'
-import Carousel from '../../components/Carousel'
-import dadosIniciais from '../../data/dados_iniciais.json'
-import PageDefault from './../PageDefault'
+import BannerMain from '../../components/BannerMain';
+import Carousel from '../../components/Carousel';
+import dadosIniciais from '../../data/dados_iniciais.json';
+import PageDefault from '../PageDefault';
 
 function Home() {
   return (
     <PageDefault>
-      <BannerMain videoTitle={dadosIniciais.categorias[0].videos[0].titulo} 
-      videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}  
-      url={dadosIniciais.categorias[0].videos[0].url} />
+      <BannerMain
+        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
+        videoDescription="Sam quer ser desenvolvedora de jogos, mas antes que sua carreira possa começar, um famoso streamer publica um vídeo dele jogando seu primeiro jogo e faz uma crítica ruim. Para piorar a situação, ela logo descobre que ele é seu novo vizinho! Uma história sobre jogos, memes e ansiedade social!"
+        url={dadosIniciais.categorias[0].videos[0].url}
+      />
 
       <Carousel ignoreFirstVideo category={dadosIniciais.categorias[0]} />
       <Carousel category={dadosIniciais.categorias[1]} />

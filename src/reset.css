@@ -11,7 +11,8 @@
 }
 
 :root {
-  --primary: #ef054f;
+  --pink: #ef054f;
+  --lightPink: #e91e63;
   --black: #000000;
   --darkPurple: #0c0722;
   --orangeLight: #f79027;
@@ -20,8 +21,8 @@
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
   --white: #FFFFFF;
-  --frontEnd: #6BD1FF;
-  --backEnd: #00C86F;
+  --lightBlue: #6BD1FF;
+  --lightGreen: #00C86F;
   --background: #141414;
 }
 

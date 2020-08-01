@@ -1,0 +1,10 @@
+{
+    "categorias": [
+        {
+            "id": "1",
+            "name": "Web comics",
+            "description": "Uma categoria bacanuda",
+            "color": "#6bd1FF"
+        }
+    ]
+}

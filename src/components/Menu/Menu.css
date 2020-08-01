@@ -22,7 +22,7 @@
     padding-left: 5%;
     padding-right: 5%;
     background: var(--darkPurple);
-    border-bottom: 2px solid var(--primary);
+    border-bottom: 2px solid var(--pink);
 }
 
 body {
@@ -57,7 +57,7 @@ body {
     transition: opacity .3s;
 }
 
-.ButtonLink:hover, .ButtonLink:focus {
+.ButtonLink:hover {
     opacity: .5;
 }
 
