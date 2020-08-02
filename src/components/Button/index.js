@@ -20,12 +20,14 @@ const Button = styled.a`
         transform: translateY(4px);
     }
 
-    @media (max-width: 800px) {
+    header > & {
+        @media (max-width: 800px) {
             position: fixed;
             left: 0;
             right: 0;
             bottom: 0;
             text-align: center;
-    }
+        }
+    }    
 `;
 export default Button;

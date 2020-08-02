@@ -77,7 +77,7 @@ function FormField({
   return (
     <WrapperFormField>
       <Label htmlFor={fieldId}>
-        <Input as={tag} id={fieldId} type={type} value={value} name={name} onChange={onChange} hasValue={hasValue} />
+        <Input as={tag} id={fieldId} type={type} value={value} name={name} onChange={onChange} hasValue={hasValue} autoComplete={'off'} />
         <Label.Text>
           {label}
         </Label.Text>

@@ -1,194 +1,194 @@
 {
-  "categorias": [
+  "categories": [
     {
-      "titulo": "Webcomics",
+      "name": "Webcomics",
       "link": "https://www.webtoons.com/en/",
-      "cor": "#6BD1FF",
+      "color": "#6BD1FF",
       "link_extra": {
         "text": "Confira mais histórias!",
         "url": "https://www.webtoons.com/en/"
       },
       "videos": [
         {
-          "titulo": "Let's Play",
+          "name": "Let's Play",
           "url": "https://www.youtube.com/watch?v=20pQPKHaZkQ"
         },
         {
-          "titulo": "Your Letter",
+          "name": "Your Letter",
           "url": "https://www.youtube.com/watch?v=UF6CVS3lEPY"
         },
         {
-          "titulo": "SubZero",
+          "name": "SubZero",
           "url": "https://www.youtube.com/watch?v=IMvkL1uNCXc"
         },
         {
-          "titulo": "True Beauty",
+          "name": "True Beauty",
           "url": "https://www.youtube.com/watch?v=aFoFnj0bHxs"
         },
         {
-          "titulo": "Midnight Poppy Land",
+          "name": "Midnight Poppy Land",
           "url": "https://www.youtube.com/watch?v=Pk5T94to_iE"
         },
         {
-          "titulo": "Lore Olympus",
+          "name": "Lore Olympus",
           "url": "https://www.youtube.com/watch?v=GXIBp3Xgujk"
         },
         {
-          "titulo": "The God of High School",
+          "name": "The God of High School",
           "url": "https://www.youtube.com/watch?v=W1HYX_yRgrg"
         },
         {
-          "titulo": "The Wrath & the Dawn",
+          "name": "The Wrath & the Dawn",
           "url": "https://www.youtube.com/watch?v=9ZulQWyQpIM"
         },
         {
-          "titulo": "The Wrath & the Dawn",
+          "name": "The Wrath & the Dawn",
           "url": "https://www.youtube.com/watch?v=uSPnzAJ3Fy0"
         }          
       ]
     },
     {
-      "titulo": "Tecnologia",
-      "cor": "#00C86F",
+      "name": "Tecnologia",
+      "color": "#00C86F",
       "videos": [
         {
-          "titulo": "Angular vs React vs Vue - A Batalha dos Frameworks!!!",
+          "name": "Angular vs React vs Vue - A Batalha dos Frameworks!!!",
           "url": "https://www.youtube.com/watch?v=VmmA5SFN2WM"
         },
         {
-          "titulo": "API REST com Spring Boot - parte 1: iniciando a aplicação",
+          "name": "API REST com Spring Boot - parte 1: iniciando a aplicação",
           "url": "https://www.youtube.com/watch?v=bpBRFNKg8k4"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "name": "Programei 4 robôs que criam vídeos para mim no YouTube",
           "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
         }, 
         {
-          "titulo": "How To Code Rock Paper Scissors In JavaScript",
+          "name": "How To Code Rock Paper Scissors In JavaScript",
           "url": "https://www.youtube.com/watch?v=1yS-JV4fWqY"
         },
         {
-          "titulo": "API: Dicionário do Programador",
+          "name": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
         }, 
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "name": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         }, 
         {
-          "titulo": "Learn Flexbox in 15 Minutes",
+          "name": "Learn Flexbox in 15 Minutes",
           "url": "https://www.youtube.com/watch?v=fYq5PXgSsbE"
         }
       ]
     },
     {
-      "titulo": "Animes",
-      "cor": "#9cd33b",
+      "name": "Animes",
+      "color": "#9cd33b",
       "link_extra": {
         "text": "Plus Ultra!",
         "url": "https://www.crunchyroll.com/pt-br"
       },
       "videos": [
         {
-          "titulo": "5 ANIMES Feitos Por MULHERES! - ft OTAMINAS",
+          "name": "5 ANIMES Feitos Por MULHERES! - ft OTAMINAS",
           "url": "https://www.youtube.com/watch?v=zAMnR3CN-qU"
         },
         {
-          "titulo": "Deku vs Todoroki | My Hero Academia",
+          "name": "Deku vs Todoroki | My Hero Academia",
           "url": "https://www.youtube.com/watch?v=wpOhT35YtWg"
         },
         {
-          "titulo": "O bloqueio mais emocionante do Karasuno! | HAIKYU!! 3",
+          "name": "O bloqueio mais emocionante do Karasuno! | HAIKYU!! 3",
           "url": "https://www.youtube.com/watch?v=4a1yehDphac"
         },
         {
-          "titulo": "Naruto vs Pain | Naruto Shippuden",
+          "name": "Naruto vs Pain | Naruto Shippuden",
           "url": "https://www.youtube.com/watch?v=wLCJe67Uodk"
         },
         {
-          "titulo": "Why You NEED to Watch Fullmetal Alchemist: Brotherhood",
+          "name": "Why You NEED to Watch Fullmetal Alchemist: Brotherhood",
           "url": "https://www.youtube.com/watch?v=gJOE2ddno6A"
         },
         {
-          "titulo": "Cardcaptor Sakura: Clear Card | TRAILER OFICIAL",
+          "name": "Cardcaptor Sakura: Clear Card | TRAILER OFICIAL",
           "url": "https://www.youtube.com/watch?v=VolQDjdsQpQ"
         },
         {
-          "titulo": "A Moment from Every Year of One Piece",
+          "name": "A Moment from Every Year of One Piece",
           "url": "https://www.youtube.com/watch?v=K3_nMIVp2sw"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "name": "Filmes",
+      "color": "orange",
       "videos": [
         {
-          "titulo": "Kiki's Delivery Service - Official Trailer",
+          "name": "Kiki's Delivery Service - Official Trailer",
           "url": "https://www.youtube.com/watch?v=uM1fzCdPHSU"
         },
         {
-          "titulo": "The Hunger Games: Mockingjay Part 2 Official Trailer – “We March Together”",
+          "name": "The Hunger Games: Mockingjay Part 2 Official Trailer – “We March Together”",
           "url": "https://www.youtube.com/watch?v=n-7K_OjsDCQ"
         },
         {
-          "titulo": "Marvel's Guardians of the Galaxy - Trailer 1 (OFFICIAL)",
+          "name": "Marvel's Guardians of the Galaxy - Trailer 1 (OFFICIAL)",
           "url": "https://www.youtube.com/watch?v=d96cjJhvlMA"
         },
         {
-          "titulo": "Rogue One: A Star Wars Story Trailer (Official)",
+          "name": "Rogue One: A Star Wars Story Trailer (Official)",
           "url": "https://www.youtube.com/watch?v=frdj1zb9sMY"
         }
       ]
     },
     {
-      "titulo": "Musica",
-      "cor": "#6b5be2",
+      "name": "Musica",
+      "color": "#6b5be2",
       "videos": [
         {
-          "titulo": "Of Monsters and Men - King And Lionheart",
+          "name": "Of Monsters and Men - King And Lionheart",
           "url": "https://www.youtube.com/watch?v=A76a_LNIYwE"
         },
         {
-          "titulo": "Arcade Fire - Afterlife",
+          "name": "Arcade Fire - Afterlife",
           "url": "https://www.youtube.com/watch?v=z_Mu1RNG0fc"
         },
         {
-          "titulo": "Foster The People - Houdini",
+          "name": "Foster The People - Houdini",
           "url": "https://www.youtube.com/watch?v=_GMQLjzVGfw"
         },
         {
-          "titulo": "Arcade Fire - Arcade Fire presents Sprawl II",
+          "name": "Arcade Fire - Arcade Fire presents Sprawl II",
           "url": "https://www.youtube.com/watch?v=NuSbELCNloc"
         },        
         {
-          "titulo": "SUNMI(선미) _ 누아르(Noir)",
+          "name": "SUNMI(선미) _ 누아르(Noir)",
           "url": "https://www.youtube.com/watch?v=CNeNwplE_aw"
         }
       ]
     },    
     {
-      "titulo": "Pixel Art",
-      "cor": "red",
+      "name": "Pixel Art",
+      "color": "red",
       "videos": [
         {
-          "titulo": "Aseprite Guide for Beginners (Pixelart Tutorial)",
+          "name": "Aseprite Guide for Beginners (Pixelart Tutorial)",
           "url": "https://www.youtube.com/watch?v=Md6W79jtLJM"
         },
         {
-          "titulo": "Pixel Art Academy Kickstarter Video",
+          "name": "Pixel Art Academy Kickstarter Video",
           "url": "https://www.youtube.com/watch?v=ImQNo8wHw8c"
         },
         {
-          "titulo": "CHARACTER & ANIMATION Top down RPG (Pixel Art Tutorial)",
+          "name": "CHARACTER & ANIMATION Top down RPG (Pixel Art Tutorial)",
           "url": "https://www.youtube.com/watch?v=GUEVPYlv474"
         },
         {
-          "titulo": "Retronator Pixel Art Paintover — Episode 1",
+          "name": "Retronator Pixel Art Paintover — Episode 1",
           "url": "https://www.youtube.com/watch?v=To5mxZ--UZo"
         },
         {
-          "titulo": "PIXELART - 2 ERROS QUE VOCÊ DEVE EVITAR!",
+          "name": "PIXELART - 2 ERROS QUE VOCÊ DEVE EVITAR!",
           "url": "https://www.youtube.com/watch?v=-5dAIDoQ0PU"
         }
       ]
