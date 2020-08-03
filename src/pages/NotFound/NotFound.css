@@ -5,6 +5,9 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    width: 50vw;
+    margin: 0 auto;
+    padding: 10px;
 }
 
 .NotFound h1 {

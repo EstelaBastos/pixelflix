@@ -4,6 +4,7 @@ import PageDefault from '../PageDefault';
 import FormField from '../../components/FormField';
 import Button from '../../components/Button';
 import useForm from '../../hooks/useForm';
+import Loading from '../../components/Loading';
 import categoriesRepository from '../../repositories/categories.js';
 
 function CategoryPage() {
@@ -39,9 +40,7 @@ function CategoryPage() {
 
       {
         categories.length === 0 && (
-          <div>
-            Loading...
-          </div>
+          <Loading />
         )
       }
 

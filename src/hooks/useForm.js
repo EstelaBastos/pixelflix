@@ -3,8 +3,8 @@ import { useState } from 'react';
 function useForm(initialData) {
   const [value, setValue] = useState(initialData);
 
-  const clearForm = (initialData) => {
-    setValue(initialData);
+  const clearForm = (clearedData) => {
+    setValue(clearedData);
   };
 
   const addValue = (key, newValue) => {

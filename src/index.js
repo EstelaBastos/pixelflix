@@ -11,9 +11,9 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/" component={Home} exact/>
-      <Route path="/cadastro/video" component={VideoPage} exact/>
-      <Route path="/cadastro/categoria" component={CategoryPage} exact/>
+      <Route path="/" component={Home} exact />
+      <Route path="/cadastro/video" component={VideoPage} exact />
+      <Route path="/cadastro/categoria" component={CategoryPage} exact />
       <Route component={NotFound}/>
     </Switch>   
   </BrowserRouter>,

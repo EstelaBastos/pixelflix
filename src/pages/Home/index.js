@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import PageDefault from '../PageDefault';
+import Loading from '../../components/Loading';
 import categoriesRepository from '../../repositories/categories.js';
 
 function Home() {
@@ -13,7 +14,7 @@ function Home() {
   }, []);
   return (
     <PageDefault paddingAll={0}>
-      {initialData.length === 0 && (<div>Loading...</div>)}
+      {initialData.length === 0 && (<Loading />)}
 
       {
         initialData.map((category, index) => {

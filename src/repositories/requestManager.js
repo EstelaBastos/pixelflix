@@ -3,7 +3,6 @@ const handleResquest = async (response) => {
     const data = await response.json();
     return data;
   }
-
   throw new Error('Service Unavailable');
 };
 
